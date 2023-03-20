@@ -12,4 +12,6 @@
         return "Señal batman";
     }
 
+    console.log(senal() + returnName());
+
 })()
